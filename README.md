@@ -117,7 +117,7 @@ A fully completed end-to-end encrypted messaging platform supporting one-to-one 
 
 [📦 Repository](https://github.com/gurjotsingh1774/Shadow-Room) · [🌐 Live Site](https://shadow-room.gurjot.codes/)
 
-#### 🎟️ [Secure Token Allocation Platform](https://github.com/gurjotsingh1774/secure-token-allocation-frontend)
+#### 🎟️ [Secure Token Allocation Platform](https://github.com/gurjotsingh1774/secure-token-allocation)
 A real-time, app-less digital queue and token allocation platform.
 - Instant pass generation
 - Live **Server-Sent Events (SSE)** position streaming
@@ -126,7 +126,7 @@ A real-time, app-less digital queue and token allocation platform.
 
 `Go` `Gin` `React.js` `TypeScript` `PostgreSQL` `SSE` `IndexedDB`
 
-[📦 Repository](https://github.com/gurjotsingh1774/secure-token-allocation-frontend) · [🌐 Live Site](https://secure-token-alloc.gurjot.codes/)
+[📦 Repository](https://github.com/gurjotsingh1774/secure-token-allocation) · [🌐 Live Site](https://secure-token-alloc.gurjot.codes/)
 
 ---
 
