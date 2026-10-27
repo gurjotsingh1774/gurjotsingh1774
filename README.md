@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gurjots.ds.23@nitj.ac.in"><img src="https://img.shields.io/badge/Email-55E6C1?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://www.linkedin.com/in/gurjot-singh-79302034a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gurjotwork8699@gmail.com"><img src="https://img.shields.io/badge/Email-55E6C1?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/gurjotsingh1774/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/PiercedBySanity1410/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://codeforces.com/profile/PiercedBySanity1410"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="/resume.pdf"><img src="https://img.shields.io/badge/Resume-8B7CF6?style=for-the-badge&logo=readme&logoColor=white"/></a>
+  <a href="/RESUME.pdf"><img src="https://img.shields.io/badge/Resume-8B7CF6?style=for-the-badge&logo=readme&logoColor=white"/></a>
 </p>
 
 ---
